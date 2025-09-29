@@ -1,0 +1,5 @@
+1. Java da boxing, unboxing, autoboxing kavramları araştırınız?
+2. Bilgisayarlar nasıl random sayı üretirler araştırınız?
+3. Mersenne-Twister algoritmasını araştırınız?
+4. Sayı tahmin oyununun kullanıcıdan sayı alma kısmını ve random sayı üretme kısmını methodlarla düzenleyiniz, https://github.com/yasinhoca/oop_fall_2025/blob/main/hafta02/sayi_tahmin_oyunu.java
+5. Kendisine gönderilen 3 tam sayının en küçüğünü bulup return eden methodu yazınız?
