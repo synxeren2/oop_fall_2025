@@ -1,1 +1,36 @@
-1.
+1. Javada methodlara tekrar çalışınız.
+- Dört işlemi methodlarla yapan programı yazınız.
+▓ Kendisine gönderilen iki sayıyı toplayıp return eden method
+▒ Kendisine gönderilen iki sayıyı çıkarıp return eden method
+▓ Kendisine gönderilen iki sayıyı çarpıp return eden method
+▒ Kendisine gönderilen iki sayıyı bölerek return eden method
+
+2. Methodlarda overload nedir?
+- Overload'a örnek olabilecek 2 method yazmaya çalışınız?
+
+3. Aşağıdaki kodları inceleyiniz? Soruları cevaplayınız?
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+class Company {
+  String name;
+  public Company() {
+    name = "YBS";
+  }
+}
+
+class Main {
+  public static void main(String[] args) {
+    Company obj = new Company();
+    System.out.println("Company name = " + obj.name);
+  }
+}
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+▒ Programda kaç sınıf tanımlanmıştır? İsimleri nedir?
+▓ Programda constructer var mıdır?
+▒ Nesne tanımlanmış mı?
+▓ Çıktı ne olur?
+
+4. Önceki hafta konularını tekrar ettikten sonra aşağıdak konularda araştırma yaparak pre-reading yapınız?
+▓ Inheritence (Miras alma, kalıtım)
+▒ Methodlarda override
+▓ Erişim niteleyiciler: public, private, protected
+▒ Encapsulation (Kapsülleme)
