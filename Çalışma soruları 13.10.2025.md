@@ -5,6 +5,7 @@
 3. SuperClass nedir? SubClass nedir?
 
 4. Aşağıdaki kodları okuyup anlamaya çalışın, ardından soruları cevaplayınız?
+   <pre>
 class Animal {
 
   // field and method of the parent class
@@ -25,6 +26,7 @@ class Dog extends Animal {
 
 class Main {
   public static void main(String[] args) {
+
     // create an object of the subclass
     Dog labrador = new Dog();
 
@@ -35,8 +37,11 @@ class Main {
     // call method of superclass
     // using object of subclass
     labrador.eat();
+
   }
 }
+</pre>
+
 
 ▓ SuperClass hangisidir?
 ░ Hangi sınıf miras almıştır?
