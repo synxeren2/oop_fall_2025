@@ -6,6 +6,7 @@
 
 4.Aşağıdaki kodları inceliyiniz?<br><br>
 <img src="/img/class2.jpg" width="60%"/>
+
 -SuperClass hangisidir?
 -SubClass hangisidir?
 -Nesne hangisidir?
