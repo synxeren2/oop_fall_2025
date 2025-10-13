@@ -4,7 +4,7 @@
 2. Overload nedir? Override nedir?
 3. SuperClass nedir? SubClass nedir?
 
-4.Aşağıdaki kodları inceliyiniz?
+4.Aşağıdaki kodları inceliyiniz?<br><br>
 <img src="/img/class2.jpg" width="60%"/>
 -SuperClass hangisidir?
 -SubClass hangisidir?
