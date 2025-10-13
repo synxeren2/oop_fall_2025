@@ -5,7 +5,7 @@
 3. SuperClass nedir? SubClass nedir?
 
 4. Aşağıdaki kodları okuyup anlamaya çalışın, ardından soruları cevaplayınız?
-<img src="/img/class2.jpg width="60%"/>
+   <img src="/img/class2.jpg width="60%"/>
 
 ▓ SuperClass hangisidir?
 ░ Hangi sınıf miras almıştır?
